@@ -1,4 +1,4 @@
 # NestJS module helpers
 
-- RealIP
+- RealIpDecorator
 - RawBody

@@ -18,11 +18,3 @@ This wrapper must require NestJS and more:
   "request-ip": "^2",
 }
 ```
-### RawBody
-```shell
-{
-  ...
-  "express": "^4",
-  "body-parser": "^1",
-}
-```

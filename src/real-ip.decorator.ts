@@ -1,3 +1,5 @@
+'use strict'
+
 import { getClientIp } from 'request-ip'
 import { createParamDecorator, ExecutionContext } from '@nestjs/common'
 

@@ -1,6 +1,6 @@
 {
   "name": "@tacxtv/nestjs-module-helpers",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Helpers Nest.JS module",
   "repository": "https://github.com/tacxtv/nestjs-module-helpers.git",
   "author": "Tacx <12997062+tacxticx88@users.noreply.github.com>",

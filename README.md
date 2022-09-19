@@ -1,4 +1,5 @@
 # NestJS module helpers
+Doc incoming...
 
 ## Required dependencies
 This wrapper must require NestJS and more:
